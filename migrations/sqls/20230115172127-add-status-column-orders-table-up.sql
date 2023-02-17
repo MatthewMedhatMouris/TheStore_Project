@@ -1,0 +1,1 @@
+ALTER TABLE orders ADD COLUMN b_status BOOLEAN NOT NULL DEFAULT false;
